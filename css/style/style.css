@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+}
+h1{
+    font-size: 30px;
+    color: seagreen;
+}
+p{
+    color: snow;
+}
+*{
+    margin:0; padding:0;
+}
+
